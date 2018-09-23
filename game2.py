@@ -19,32 +19,7 @@ def cave():
     elif command == 2:
         hole()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+def hole():
 
 
 
